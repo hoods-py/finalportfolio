@@ -1,0 +1,26 @@
+body {
+    background-image: url("/assets/pexels-negative-space-177557.jpg");
+    background-size: cover;
+}
+
+.profilepic {
+    margin-right: 1rem;
+}
+
+.main-title {
+    font-size: 3rem;
+}
+
+.title-text {
+    font-size: 1.5rem;
+}
+
+.headertopbar {
+        border-bottom: 4px solid black;
+}
+
+.myname {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
